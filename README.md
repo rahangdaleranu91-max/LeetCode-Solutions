@@ -18,6 +18,6 @@ Welcome to my LeetCode Solutions repository.
 This repository contains my C++ solutions to LeetCode problems. I regularly update it as I solve new problems.
 
 ## Total Problems Solved
-- Easy:
-- Medium:
-- Hard:
+- Easy: 33
+- Medium: 1
+- Hard: 0
